@@ -30,6 +30,11 @@ and finally run it:
 docker run --rm -it my-java-app:latest
 ```
 
+## Assumptions
+
+It does not do any assumptions on your app, projects structure or needs! You may use this image to run the compiler, execute java commands and run servers.
+
+
 ## License
 
 MIT Licensed
